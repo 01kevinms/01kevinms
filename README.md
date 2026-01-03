@@ -2,8 +2,8 @@
 
 # 👋 Kevin
 
-**Fullstack Developer** com foco em **arquitetura de APIs**, **aplicações escaláveis** e **boas práticas de engenharia de software**.  
-Experiência prática em **frontend moderno**, **backend estruturado** e **integração de serviços**.
+**Fullstack Developer** com foco em **arquitetura de APIs**, **aplicações escaláveis**.  
+Experiência em **frontend**, **backend** e **integração de serviços**.
 
 ---
 
