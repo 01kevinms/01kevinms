@@ -27,8 +27,6 @@ Tenho experiência no desenvolvimento de soluções completas, desde a modelagem
 ![React](https://img.shields.io/badge/React-0f2027?style=for-the-badge\&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-0f2027?style=for-the-badge\&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f2027?style=for-the-badge\&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f2027?style=for-the-badge\&logo=tailwindcss)
-![Zustand](https://img.shields.io/badge/Zustand-0f2027?style=for-the-badge)
 
 ### Backend
 
@@ -48,7 +46,6 @@ Tenho experiência no desenvolvimento de soluções completas, desde a modelagem
 
 ![Docker](https://img.shields.io/badge/Docker-0f2027?style=for-the-badge\&logo=docker)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0f2027?style=for-the-badge\&logo=rabbitmq)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f2027?style=for-the-badge\&logo=githubactions)
 
 ---
 
@@ -63,7 +60,7 @@ Sistema de gerenciamento de tarefas focado em produtividade e organização de e
 * Next.js
 * TypeScript
 * NestJS
-* PostgreSQL
+* Mysql
 
 ---
 
@@ -75,7 +72,7 @@ Plataforma para controle financeiro pessoal com dashboard e visualização de ga
 
 * React
 * Node.js
-* PostgreSQL
+* MongoDb
 
 ---
 
@@ -94,33 +91,21 @@ Plataforma completa de comércio eletrônico com regras de negócio complexas.
 **Tecnologias**
 
 * NestJS
+* reactJS
 * Prisma ORM
-* PostgreSQL
-* Docker
-
+* Postgresql
 ---
 
-## 📈 Estatísticas
+## 📈 GitHub Insights
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=01kevinms&theme=github_dark" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01kevinms\&show_icons=true\&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01kevinms\&layout=compact\&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=01kevinms\&theme=github-dark)
-
-</div>
-
----
-
-## 🎯 Atualmente estudando
-
-* Arquitetura de Microsserviços
-* Event-Driven Architecture
-* Kubernetes/OpenShift
-* Observabilidade e Monitoramento
-* Inteligência Artificial aplicada a sistemas
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01kevinms&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01kevinms&theme=github_dark" />
+</p>
 
 ---
 
